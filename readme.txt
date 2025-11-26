@@ -1,4 +1,4 @@
-roject Name : COMMtalks Website
+Project Name : COMMtalks Website
 Project Type : UTS Pemrograman Web (HTML & CSS)
 University   : Tanri Abeng University
 Program      : Ilmu Komunikasi
@@ -19,4 +19,5 @@ Kelompok 3
 Fadma Al Hallaj 04023031 (home)
 Hairul Chandra 04023032 (page 2)
 Mohammad Irawan 04024078 (page 3)
+
 
